@@ -7,7 +7,7 @@ export default function Main() {
             The onchain <br />fart-ketplace for creatives
           </h1>
           <p className="mb-4 xl:w-3/4 text-gray-600 text-lg">
-            OnlyFarts is a decentralized marketplace for digital creators to buy and sell farts.
+            OnlyFarts is a decentralized marketplace for digital creators to buy and sell flatulatory audio experiences.
           </p>
           <div className="flex justify-center">
             <a
