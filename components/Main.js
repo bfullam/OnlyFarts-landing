@@ -17,6 +17,14 @@ export default function Main() {
               <span className="justify-center">Join the waitlist</span>
             </a>
           </div>
+          <br />
+          <div className="flex flex-col">
+              <div className="text-lg">Coming soon</div>
+              <div className="flex flex-row space-x-5 pt-5">
+                <img src="/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="Download on the App Store" className="w-40" />
+                <img src="/images/Google_Play_Store_Badge_EN.png" alt="Google Play Store" className="w-40" />
+              </div>
+            </div>
         </div>
         <div className="xl:mr-44 sm:mr-0 sm:mb-28 mb-0 lg:mb-0 mr-48 md:pl-10">
           <img
