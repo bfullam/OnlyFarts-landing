@@ -12,8 +12,8 @@ export default function Header() {
             href="/"
             className="text-lg font-semibold rounded-lg tracking-widest focus:outline-none focus:shadow-outline"
           >
-            <h1 className="text-4xl Avenir tracking-tighter text-gray-900 md:text-4x1 lg:text-3xl">
-              {" "}OnlyFarts
+            <h1 className="text-4xl Avenir tracking-tighter text-gray-900 md:text-4x1 lg:text-3xl pl-2">
+              OnlyFarts
             </h1>
           </a>
           <button

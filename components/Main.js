@@ -12,6 +12,7 @@ export default function Main() {
           <div className="flex justify-center">
             <a
               className="inline-flex items-center px-5 py-3 mt-2 font-medium text-white transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-gray-900"
+              href="https://www.youtube.com/watch?v=snoe0OHKTfQ"
             >
               <span className="justify-center">Join the waitlist</span>
             </a>
