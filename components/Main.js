@@ -4,27 +4,32 @@ export default function Main() {
       <div className="max-w-7xl mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 md:ml-24 pt-6 flex flex-col md:items-start md:text-left mb-40 items-center text-center">
           <h1 className="mb-5 sm:text-6xl text-5xl items-center Avenir xl:w-2/2 text-gray-900">
-            We are making Stunning Websites
+            The onchain <br />fart-ketplace for creatives
           </h1>
           <p className="mb-4 xl:w-3/4 text-gray-600 text-lg">
-            nine4 is a free to use website template for websites made with
-            Next.js and styled with Tailwind CSS
+            OnlyFarts is a decentralized marketplace for digital creators to buy and sell farts.
           </p>
           <div className="flex justify-center">
             <a
               className="inline-flex items-center px-5 py-3 mt-2 font-medium text-white transition duration-500 ease-in-out transform bg-transparent border rounded-lg bg-gray-900"
               href="https://github.com/r1/nine4-2/"
             >
-              <span className="justify-center">Find out more</span>
+              <span className="justify-center">Download</span>
             </a>
           </div>
         </div>
         <div className="xl:mr-44 sm:mr-0 sm:mb-28 mb-0 lg:mb-0 mr-48 md:pl-10">
           <img
-            className="w-80 md:ml-1 ml-24"
+            className="md:ml-1 ml-24"
+            style={{ width: "38rem" }}
             alt="iPhone-12"
             src="/images/iPhone-12-Mockup.png"
           ></img>
+          <div className="carousel">
+            <img src="/images/carousel-image1.png" alt="Carousel Image 1" />
+            <img src="/images/carousel-image2.png" alt="Carousel Image 2" />
+            <img src="/images/carousel-image3.png" alt="Carousel Image 3" />
+          </div>
         </div>
       </div>
       <section className="mx-auto">
